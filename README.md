@@ -1,4 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil  👋
+
+
+Meu nome é Gabriel e estou aprendendo a programar.
+
+- Estou estudando na **Alura**.
+- Utilizo esse espaço para a minha organização.
+
+### Meu contato 
+
+gabrielcostaesilva26@gmail.com
+
+![](https://tenor.com/search/sapo+atumalaca-gifs)
 
 <!--
 **Gcs247/Gcs247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
